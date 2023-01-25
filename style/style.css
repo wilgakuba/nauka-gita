@@ -12,3 +12,8 @@ header, article, footer {
     font-weight: 400;
     font-style: italic;
 }
+/* poem */
+.poem {
+    text-align: center;
+   
+}
