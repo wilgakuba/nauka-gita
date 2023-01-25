@@ -17,3 +17,8 @@ header, article, footer {
     text-align: center;
    
 }
+/* footer */
+footer span {
+    font-style: italic;
+    word-spacing: 5px;
+}
