@@ -22,3 +22,7 @@ footer span {
     font-style: italic;
     word-spacing: 7px;
 }
+{
+    "extends": ["html-validate:recommended"]
+  }
+  
